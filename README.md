@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kazi Aynun Nahin</h1>
 <h3 align="center">A passionate web developer and Ethical hacker from Bangladesh</h3>
 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AProgramming123najra.gif&psig=AOvVaw0okhNvQ9JOLHx_MT5LXgOA&ust=1706626573964000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCDmsftgoQDFQAAAAAdAAAAABAD">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahian1269&label=Profile%20views&color=0e75b6&style=flat" alt="nahian1269" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahian1269" alt="nahian1269" /></a> </p>
